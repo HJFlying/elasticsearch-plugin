@@ -1,4 +1,4 @@
-package com.elasticsearch.custom.test;
+package com.elasticsearch.custom;
 
 import java.io.File;
 import java.io.IOException;

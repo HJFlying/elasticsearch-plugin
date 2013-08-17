@@ -1,4 +1,4 @@
-package com.elasticsearch.custom.test;
+package com.elasticsearch.custom;
 
 import java.util.ArrayList;
 import java.util.List;
